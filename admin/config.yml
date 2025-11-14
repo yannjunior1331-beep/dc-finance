@@ -189,3 +189,4 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Publish Date", name: "date", widget: "datetime" }
           - { label: "Hero Heading", name: "hero_heading", widget: "string" }
+          - { label: "Page Content", name: "body", widget: "markdown" }
